@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sagar B Patil – Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; background: #f4f4f4; }
+    header, footer { background: #333; color: #fff; padding: 10px 20px; text-align: center; }
+    nav { background: #444; padding: 10px 20px; text-align: center; }
+    nav a { color: #fff; margin: 0 10px; text-decoration: none; font-weight: bold; }
+    main { padding: 20px; background: #fff; }
+    section { margin-bottom: 30px; }
+    h1, h2 { color: #333; }
+    .contact { font-size: 0.9em; color: #555; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Dr. Sagar B Patil</h1>
+    <p class="contact">📧 Sagar.Patil@mitvpu.ac.in | 📞 +91-9741968438</p>
+    <p class="contact">📍 Belagavi, Karnataka, India</p>
+  </header>
+
+  <nav>
+    <a href="#objective">Objective</a>
+    <a href="#summary">Summary</a>
+    <a href="#experience">Experience</a>
+    <a href="#publications">Publications</a>
+    <a href="#patents">Patents</a>
+    <a href="#workshops">Workshops</a>
+    <a href="#consultancy">Consultancy</a>
+    <a href="#events">Events</a>
+    <a href="#academics">Academics</a>
+  </nav>
+
+  <main>
+    <section id="objective">
+      <h2>Objective</h2>
+      <p>To leverage my extensive academic and research experience in finance to contribute meaningfully in an academic setting, fostering a culture of innovation, intellectual growth, and real-world impact.</p>
+    </section>
+
+    <section id="summary">
+      <h2>Summary</h2>
+      <p>A committed Assistant Professor with 15+ years of experience specializing in finance, curriculum development, student mentorship, and research with a strong focus on equity analysis and capital markets.</p>
+    </section>
+
+    <section id="experience">
+      <h2>Experience</h2>
+      <p><strong>MIT Vishwaprayag University, Solapur</strong><br>Assistant Professor – Finance (Apr 2024 – Present)</p>
+      <p><strong>KLE Technological University, Hubli</strong><br>Associate Professor – Finance (Aug 2010 – Mar 2024)</p>
+      <p><strong>Nagarjuna College of Engg. & Tech., Bangalore</strong><br>Lecturer – Finance (Feb 2008 – Jul 2009)</p>
+      <p><strong>Asian Paints Ltd., Bangalore</strong><br>Sales Officer Level-I (Jul 2007 – Feb 2008)</p>
+    </section>
+
+    <section id="publications">
+      <h2>Publications</h2>
+      <p>25+ Research papers published in Scopus, WoS and indexed journals in finance, stock markets, education and innovation.</p>
+    </section>
+
+    <section id="patents">
+      <h2>Patents</h2>
+      <ul>
+        <li>News-based Stock Market Prediction System (2022)</li>
+        <li>Stock Price Prediction using Deep Neural Network (2023)</li>
+        <li>Decision Support System for Investment (2023)</li>
+      </ul>
+    </section>
+
+    <section id="workshops">
+      <h2>Workshops & FDPs</h2>
+      <p>Organized and attended numerous FDPs and workshops on finance, econometrics, Excel modeling, and modern teaching methodologies.</p>
+    </section>
+
+    <section id="consultancy">
+      <h2>Consultancy</h2>
+      <p>Consulted on financial planning and delivered value-added programs for academic institutions.</p>
+    </section>
+
+    <section id="events">
+      <h2>Events</h2>
+      <p>Organized trade events, fests, and competitions to promote financial literacy and experiential learning.</p>
+    </section>
+
+    <section id="academics">
+      <h2>Academic Profile</h2>
+      <ul>
+        <li>Ph.D. in Management – VTU Belgaum</li>
+        <li>M.Phil. – The Global Open University</li>
+        <li>MBA – Visvesvaraya Technological University</li>
+        <li>BBA – Bharatesh College, Belgaum</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Sagar B Patil. All rights reserved.</p>
+  </footer>
+</body>
+</html>
